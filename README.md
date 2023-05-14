@@ -1,5 +1,4 @@
-# Codebasics
-Project Title: Tourism Data Analysis for Telangana Government
+#Project Title: Tourism Data Analysis for Telangana Government
 
 Description:
 This project focuses on analyzing the tourism data of Telangana, a state in Southern India renowned for its rich cultural heritage and natural beauty. The goal is to derive valuable insights from the data and provide recommendations to enhance the administration's operations and boost the revenue for the Telangana government.
